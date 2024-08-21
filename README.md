@@ -1,4 +1,4 @@
-# SearchableSpinner 
+# SearchableSpinner
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SearchableSpinner-green.svg?style=true)](https://android-arsenal.com/details/1/3272)
 
 Spinner with searchable items.
@@ -7,11 +7,24 @@ Searchable Spinner is a dialog spinner with the search feature which allows to s
 
 ![Alt text](https://github.com/miteshpithadiya/SearchableSpinner/blob/master/searchablespinnerlibrary/src/main/res/nobleltevzwLMY47XMeditab02192016201518.gif "Searchable Spinner")
 
-# Gradle
-    dependencies {
-        ...
-        compile 'com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1'
-    }
+This fork == jcenter remplaced by jitpack
+
+## Installation
+
+```groovy
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+```
+
+```groovy
+dependencies {
+	implementation 'com.github.Nogema-Technology-SAS:SearchableSpinner:1.0.0'
+}
+```
 
 # Usage
     <com.toptoche.searchablespinnerlibrary.SearchableSpinner
@@ -20,7 +33,7 @@ Searchable Spinner is a dialog spinner with the search feature which allows to s
 
     searchableSpinner.setTitle("Select Item");
     searchableSpinner.setPositiveButton("OK");
-    
+
 # Changelog
  * <b>1.3.1</b>
     * Bug fixes.
