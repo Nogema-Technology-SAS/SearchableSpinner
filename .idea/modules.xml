@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SearchableSpinner.iml" filepath="$PROJECT_DIR$/SearchableSpinner.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/searchablespinnerlibrary/searchablespinnerlibrary.iml" filepath="$PROJECT_DIR$/searchablespinnerlibrary/searchablespinnerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SearchableSpinner.iml" filepath="$PROJECT_DIR$/.idea/modules/SearchableSpinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchablespinnerlibrary/SearchableSpinner.searchablespinnerlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/searchablespinnerlibrary/SearchableSpinner.searchablespinnerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchablespinnerlibrary/SearchableSpinner.searchablespinnerlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/searchablespinnerlibrary/SearchableSpinner.searchablespinnerlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchablespinnerlibrary/SearchableSpinner.searchablespinnerlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/searchablespinnerlibrary/SearchableSpinner.searchablespinnerlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchablespinnerlibrary/SearchableSpinner.searchablespinnerlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/searchablespinnerlibrary/SearchableSpinner.searchablespinnerlibrary.unitTest.iml" />
     </modules>
   </component>
 </project>
